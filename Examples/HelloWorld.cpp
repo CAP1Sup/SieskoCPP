@@ -7,7 +7,7 @@
 #include <string>
 using namespace std;
 
-int main() {
+int helloWorld() {
 
   string user_name;
   cout << "Enter your name: ";
