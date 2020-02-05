@@ -109,7 +109,7 @@ string addEconomyClassSeat() {
 }
 
 
-int main() {
+int SieskoSkies() {
 
   while (true) {
 
